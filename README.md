@@ -4,7 +4,7 @@
 
          
 
-  <h3 align="center">Stack</h3>
+  <h3 align="center">⚙ Stack ⚙</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=-square&logo=C&logoColor=white"/></a>&nbsp 
@@ -17,7 +17,7 @@
 </p>
 
 <br><br>
-<h3 align="center">  Me  </h3>
+<h3 align="center"> 🎇 Me 🎇 </h3>
 <p align="center">
   <a href="https://www.instagram.com/go.gnal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/go.gnal/"/></a>&nbsp
   <a href="mailto:s20014@gsm.hs.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=s20014@gsm.hs.kr"/></a>
