@@ -6,14 +6,14 @@
 
   <h3 align="center">⚙ Stack ⚙</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Css-1572B6?style=-square&logo=css3&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Html-E02826?style=-square&logo=HTML5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=-square&logo=Go&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Node.Js-339933?style=-square&logo=Node.Js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Html-E02826?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=Node.Js&logoColor=white"/></a>&nbsp
 </p>
 
 <br><br>
