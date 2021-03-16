@@ -7,9 +7,6 @@
   <h3 align="center">🛠 Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JS-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/HTML5-E02826?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=Node.Js&logoColor=white"/></a>&nbsp
 </p>
