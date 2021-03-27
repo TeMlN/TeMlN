@@ -17,4 +17,4 @@
   <a href="https://www.instagram.com/go.gnal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/go.gnal/"/></a>&nbsp
   <a href="mailto:s20014@gsm.hs.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=s20014@gsm.hs.kr"/></a>
 </p>
-<br>
+<br> 
