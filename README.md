@@ -16,6 +16,6 @@
 </a>
 
 * #### 🏄‍♂️ Contact me
-  ##### *mail : taemin.develop@gmail.com*
+  ##### *mail : youman7953@naver.com*
   ##### *insta : https://www.instagram.com/liilovo/*
 
