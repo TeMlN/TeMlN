@@ -1,1 +1,1 @@
-취업하는 그날까지 화이팅!
+Backend Developer
