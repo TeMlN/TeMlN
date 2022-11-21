@@ -1,2 +1,4 @@
-Java11/Spring Backend Engineer 👋🏻 <br>
-interest in **Kotlin**
+안녕하세요 👋🏻
+
+일상에서의 생각들을 기술로 적용시키고, <br>
+팀의 성장에 희열을 느끼는 김태민입니다.
